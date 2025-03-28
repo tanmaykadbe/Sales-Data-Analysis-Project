@@ -17,5 +17,5 @@ This Power BI dashboard analyzes ElectroHub's sales data and answers key busines
 2. Open it in **Power BI Desktop**  
 3. Explore the insights & interact with visual filters  
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me on LinkedIn
 💼 [Tanmay Kadbe]((https://www.linkedin.com/in/tanmay-kadbe-325a6929b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
